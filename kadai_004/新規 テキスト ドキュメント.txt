@@ -1,0 +1,3 @@
+PS C:\Users\志田　竣\Desktop\git_challenge> git log --oneline
+f5ef1ec (HEAD -> main) kadai2
+82bb042 kadai
